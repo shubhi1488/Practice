@@ -27,7 +27,7 @@ public class Second {
         obj.setId(12);
         obj.setSal(12000);
         System.out.println(obj.getId());
-        System.out.println(obj.getSal());
+        System.out.println(obj.getSal());//My name is shubhi
 
     }
 }
